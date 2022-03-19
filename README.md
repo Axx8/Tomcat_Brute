@@ -4,4 +4,4 @@
 
 ![image](./img/20220319200649.png?raw=true)
 
-![image](https://github.com/Axx8/Tomcat_Brute/blob/main/img/20220319200838.png?raw=true)
+![image](./img/20220319200838.png?raw=true)
