@@ -1,7 +1,7 @@
 # Tomcat_Brute
 
 ```
-在下午一时兴起写的一款针对Tomcat口令爆破的工具。
+在下午一时兴起写的一款针对Apache Tomcat后台管理密码暴力破解的工具。
 ```
 国内下载：https://www.lanzoub.com/iCHRJ01ptfsj 密码:iis.cm
 #
